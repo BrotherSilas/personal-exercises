@@ -3,6 +3,7 @@
 #include "read_input.h"
 #include "tokenize_input.h"
 #include "execute_command.h"
+#include <string.h>
 #define PROMPT "$ "
 
 /**
